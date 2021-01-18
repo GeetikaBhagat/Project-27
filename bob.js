@@ -17,7 +17,6 @@ class Bob {
       fill("white");
       ellipseMode(RADIUS);
       ellipse(0,0,this.radius);
-      circle(0,0,this.radius);
       pop();
     }
   }
